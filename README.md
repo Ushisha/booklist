@@ -1,7 +1,7 @@
 
 ### Link
 
-Live Demo: [https://ushisha.github.io/bookllist/](https://ushisha.github.io/bookllist/)
+Live Demo: [https://ushisha.github.io/booklist/](https://ushisha.github.io/booklist/)
 
 ### Built with
 
